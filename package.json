@@ -1,0 +1,14 @@
+{
+  "name": "api-aerolinea",
+  "version": "1.0.0",
+  "description": "API REST modular (routes, controllers, services, models) - Guía 6 SENA ADSO",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "node --watch src/app.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
